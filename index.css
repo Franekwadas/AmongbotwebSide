@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    margin-top: -21px;
+    background-color: rgb(66, 66, 66);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#optionsBar {
+
+    background-color: rgb(53, 53, 53);
+    color: white;
+    height: 120px;
+}
+#mainWeb {
+    height: 120px;
+    width: 200px;
+    text-align: center;
+}
+
+#mainWeb:hover {
+    background-color: rgb(49, 49, 49);
+}
+
+#inviteABot {
+    margin-top: -93px;
+    margin-right: 1510px;
+    
+    height: 65px;
+    text-align: center;
+    float: right;
+}
+#inviteABot:hover {
+    background-color: rgb(49, 49, 49);
+}
